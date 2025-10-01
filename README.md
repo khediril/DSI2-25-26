@@ -1,9 +1,5 @@
 # DSI2-25-26
-Votre demande est claire ! Les ateliers sont déjà en format Markdown. Je vais simplement m'assurer que la présentation finale est optimale en conservant la structure détaillée demandée (Résumé Détaillé, Théorie/Démo, et Exercices Guidés).
 
-Voici la série complète de vos 8 Ateliers de 3 heures en **format Markdown**.
-
----
 
 ## 💻 Atelier 1 : Introduction au Côté Serveur et Bases de PHP (3h)
 
